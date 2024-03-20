@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Junior Software Engineer & Aspiring Cloud Engineer</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourimage.jpg" alt="Banner" style="border-radius:10px;">
+  <img src="https://user-images.githubusercontent.com/https://images.unsplash.com/photo-1543616991-75a2c125ff5b?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Banner" style="border-radius:10px;">
 </p>
 
 <p align="left">I’m currently diving deep into the tech universe, focusing on software and cloud engineering. With a BSc (Hons) in Software Engineering from the University of Salford, I'm always on the lookout for new tools and technologies to master.</p>
