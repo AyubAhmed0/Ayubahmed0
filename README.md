@@ -23,8 +23,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ayubadenahmed](https://www.linkedin.com/in/ayubadenahmed)
 
-- ⚡ Fun fact **I enjoy solving programming katas and running to keep my energy levels high.**
-
 
 
 ### Languages and Tools:
