@@ -7,7 +7,7 @@
 
 <p align="left">I’m currently diving deep into the tech universe, focusing on software and cloud engineering. With a BSc (Hons) in Software Engineering from the University of Salford, I'm always on the lookout for new tools and technologies to master.</p>
 
-- 🌱 I’m currently working on obtaining **AWS Certified Cloud Practitioner and HashiCorp Terraform Associate certification**
+- 🌱 I’m currently working on obtaining **HashiCorp Terraform Associate certification**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
