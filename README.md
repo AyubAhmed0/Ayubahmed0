@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **foto24, a personal project leveraging javascript and node js**
 
-- 🌱 I’m currently learning **CI/CD pipelines**
+- 🌱 I’m currently working on obtaining **AWS Certified Cloud Practitioner and HashiCorp Terraform Associate certification**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
