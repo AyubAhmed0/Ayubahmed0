@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **JavaScript, Node.js, AWS, Terraform, docker, kubernetes, CI/CD**
 
-- 📫 How to reach me **ayub.ahmed00@hotmail.com**
+- 📫 How to reach me **ayubahmed00@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ayubadenahmed](https://www.linkedin.com/in/ayubadenahmed)
 
