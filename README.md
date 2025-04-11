@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on obtaining **HashiCorp Terraform Associate certification**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👀 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with **Career development**
 
